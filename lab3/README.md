@@ -1,7 +1,3 @@
-Ось готовий опис для вашого додатку (на основі ваших скріншотів), адаптований під формат вашого прикладу:
-
----
-
 # Gesture Clicker — Лабораторна робота
 
 ## Опис проєкту
@@ -74,3 +70,5 @@ npx expo start
 ![Завдання](screenshots/challenges_dark.png)
 
 ### Налаштування (Settings)
+![Налаштування](screenshots/settings_light.png)
+![Налаштування](screenshots/settings_dark.png)
